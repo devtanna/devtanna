@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devtanna
 - 👀 I’m interested in _designing scalable infrastructure_
-- 🌱 I’m currently learning _Rust_
+- 🌱 I’m currently learning _Rust_ & _Go_
 - 💞️ I’m looking to collaborate on _open source projects around Rust_
 - 📫 How to reach me ... _dev.tanna@gmail.com_
 
