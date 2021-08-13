@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @devtanna
 - 👀 I’m interested in _designing scalable infrastructure_
-- 🗺 Living in Prague
+- 🗺 Living in Munich 
 - 💻 Working at Microsoft
-- 🌱 I’m currently learning _Go_
 - 📫 How to reach me ... _dev.tanna@gmail.com_
 
 <!---
