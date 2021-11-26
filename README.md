@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devtanna
+- 👋 Hi, I’m Dev
 - 🗺 Living in Munich 
 - 📫 How to reach me ... _dev.tanna@gmail.com_
 
