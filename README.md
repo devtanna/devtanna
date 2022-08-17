@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dev
-- 🗺 Living in Munich 
+- 🗺 Living in Munich
+- 👔 Building at Shopify
 - 📫 How to reach me ... _dev.tanna@gmail.com_
 
 <!---
