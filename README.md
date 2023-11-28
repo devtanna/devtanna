@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dev
 - 🗺 Living in Munich
+- 👔 Senior Engineering Manager at AutoScout24
 - 📫 How to reach me ... _dev.tanna@gmail.com_
 
 <!---
